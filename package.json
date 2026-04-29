@@ -1,0 +1,14 @@
+{
+  "name": "analysis-portfolio",
+  "version": "1.0.0",
+  "description": "3D Animated Data Analyst Portfolio",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx vite",
+    "build": "npx vite build",
+    "serve": "npx vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  }
+}
